@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">project1</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="view_top_headlines">View Top Headlines</string>
+    <string name="view_map_button">View Map</string>
+    <string name="top_headlines_main_text">Top Headlines</string>
+    <string name="search_for_a_term_main_text">Search for a Term</string>
+    <string name="search_main_edit_text">Search</string>
+    <string name="search_button_main">Search</string>
+    <string name="find_news_by_location_main_text">Find News by Location</string>
+    <string name="back_button_map">Back</string>
+    <string name="location_text_map">Location</string>
+    <string name="back_button_result">Back</string>
+    <string name="sources_text_source">Sources</string>
+    <string name="skip_button_source">Skip (Search All Sources)</string>
+    <string name="category_text_source">Category</string>
+    <string name="back_button_source">Back</string>
+    <string name="back_button_topheadline">Back</string>
+    <string name="next_button_topheadline">NEXT</string>
+    <string name="page_number_text_topheadline">1/5</string>
+    <string name="prev_button_topheadline">PREV</string>
+
+    <string-array name ="categories">
+        <item>Business</item>
+        <item>Entertainment</item>
+        <item>General</item>
+        <item>Health</item>
+        <item>Science</item>
+        <item>Sports</item>
+        <item>Technology</item>
+    </string-array>
+</resources>
